@@ -1,0 +1,19 @@
+.RaleWayLightFont{
+    font-family: RalewayLight;
+}
+
+.KaiseiHarunoUmiBoldFont{
+    font-family: KaiseiHarunoUmiBold;
+}
+
+
+/* Fonts */
+@font-face {
+    font-family: RalewayLight;
+    src: url(../fonts/Raleway/Raleway-Light.ttf);
+  }
+
+@font-face {
+font-family: KaiseiHarunoUmiBold;
+src: url(../fonts/KaiseiHarunoUmi/KaiseiHarunoUmi-Bold.ttf);
+}
